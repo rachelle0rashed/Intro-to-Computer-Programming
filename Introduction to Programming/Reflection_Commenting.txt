@@ -1,0 +1,2 @@
+its important to write comments for the code segments in a program so that its easier to easy and understand how the code works. 
+Comments are a way to leave notes about what the code is doing in so that other people can understand it.

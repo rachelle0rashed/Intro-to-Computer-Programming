@@ -1,0 +1,11 @@
+High Level of Abstraction: I did my skincare routine.
+Lower Level of Abstraction: I washed my face, appiled oil, moisturizer and vaseline.
+Even Lower Level of Abstraction: I wet my face with warm water, then I applied a small amount of cleanser, rubbed it in circular motions, and rinsed it off. Then I waited for my face to dry. I applied a drop of oil to my fingertips and rub it into my skin. Finally, I took a small amount of moisturizer and massaged it into my face, and neck. Lastly, I apply vaseline on my lips. 
+
+High Level of Abstraction: I did my makeup.
+Lower Level of Abstraction: I applied eyeliner, mascara, and lipgloss.
+Even Lower Level of Abstraction: I first put eyeliner on my eyes to make my eyes look like cat eyes so I put eye. After that, I curled my lashes and applied mascara in a zig-zag motion. Finally, I applied lipgloss to make my lips by opening the gloss and smoothy apply on my lips like spreading butter on toast.
+
+High Level of Abstraction: I workout my legs.
+Lower Level of Abstraction: I workout my quads, hamstrings, and calfs. 
+Even Lower Level of Abstraction: I first workout my calfs by doing 3 sets of 10 reps with 2 20 pound dumbells. I stand on my tip-toes with each dumbell on my hands and slowly go back to normal stands. Next I work out my hamstrings by using the lying leg curl machine doing 2 sets of 10 reps. Lie face down on the lying leg curls machine, stretching your legs out fully. The roller pad should rest just above the heels, a few inches over your calves. Hold handles on each side of the machine. Pulling your ankles as close to your butt as possible. Then I work my quad my using the quad extensions machine. In that machine you sit with your back against the pad, adjust the leg pad above your feet, and select a comfortable weight. Extend your legs by straightening your knees, squeeze at the top, then slowly return to the starting position, focusing on controlled movements.

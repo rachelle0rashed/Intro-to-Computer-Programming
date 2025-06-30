@@ -1,0 +1,2 @@
+Abstraction helps us write programs by letting us focus on what the program does, instead of how it works.
+Program documentation (like DOCS tabs) helps by showing us how to use the program. It explains what each part does, even if we don’t know all the details.

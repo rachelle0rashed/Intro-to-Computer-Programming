@@ -1,0 +1,1 @@
+Top down design is a way of designing your program by starting with the biggest problem and breaking it down into smaller and smaller pieces that are easier to solve. It helps in programming because it keeps things organized and makes the problem easier to solve one step at a time.

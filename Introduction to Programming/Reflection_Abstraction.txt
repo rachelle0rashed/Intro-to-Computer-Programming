@@ -1,0 +1,2 @@
+Abstraction is when you focus on the important things and not worry about the complicated details. It helps you use things without needing to understand everything about them.
+When I use a remote to change the TV channel, I don’t need to know how the TV works inside. I just press the buttons to change it.

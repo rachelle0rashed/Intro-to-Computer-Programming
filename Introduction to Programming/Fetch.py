@@ -1,0 +1,22 @@
+turn_left()
+move()
+move()
+move()
+move()
+turn_right()
+move()
+move()
+take_ball()
+#jump to take the ball
+
+turn_around()
+move()
+move()
+turn_left()
+move()
+move()
+move()
+move()
+turn_left()
+put_ball()
+#go back the the starting position with the ball

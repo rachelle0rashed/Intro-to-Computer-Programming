@@ -1,0 +1,1 @@
+Teaching Karel new commands like turn_right() is useful because it helps Karel do more things and finish tasks faster
